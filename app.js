@@ -157,6 +157,33 @@ document.addEventListener("DOMContentLoaded", () => {
             pdf_convenio_path: null,
             observaciones: "El agua es administrada por el desarrollador, no tiene redes de drenaje. Según últimos registros, no quieren entregar el título de pozo al municipio para que sea concesión.",
             autosuficiente: false
+        },
+        {
+            id: 4,
+            nombre: "Acueducto San Javier",
+            categoria: "irregular",
+            fecha_fin_convenio: null,
+            pdf_convenio_path: null,
+            observaciones: "Según últimos registros, el estado de este fraccionamiento es irregular, el agua es administrada por condominio, alcantarillado a cargo del municipio. No hay información de si cuentan con título de pozo.",
+            autosuficiente: false
+        },
+        {
+            id: 4,
+            nombre: "Adamar",
+            categoria: "irregular",
+            fecha_fin_convenio: null,
+            pdf_convenio_path: null,
+            observaciones: "Según últimos registros, se hizo entrega recepción, condicionado a dos años de transición, donde se hará cargo el desarrollador del servicio. El municipio cobra por estar recepcionado. El agua lo opera el fraccionador. De la etapa 1 y 2 se conectan al alcantarillado del municipio. De la etapa 3 a la 9 tienen planta de tratamiento.",
+            autosuficiente: false
+        },
+        {
+            id: 4,
+            nombre: "Alberi Residencial",
+            categoria: "entregado",
+            fecha_fin_convenio: null,
+            pdf_convenio_path: null,
+            observaciones: "Fraccionamiento entregado el 22 de abril de 2022. No tiene convenio ni concesión. El agua está a cargo del municipio, pero el drenaje estaba a cargo del desarrollador; contaban con planta de tratamiento. Se recibe en 2022 y se dictamina cobrar todos los servicios. Las aperturas de cuenta de agua quedan con fecha de la solicitud.",
+            autosuficiente: false
         }
     ];
 
