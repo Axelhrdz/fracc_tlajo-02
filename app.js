@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
             nombre: "Acueducto San Agustin",
             categoria: "irregular",
             fecha_fin_convenio: null,
-            pdf_convenio_path: "documents/senderos-de-monteverde.pdf",
+            pdf_convenio_path: null,
             observaciones: "Convenio vigente hasta 2027",
             autosuficiente: true
         },
@@ -319,9 +319,9 @@ document.addEventListener("DOMContentLoaded", () => {
             filter: 'agTextColumnFilter',
             cellStyle: params => {
               switch (params.value) {
-                case 'vigente': return { backgroundColor: '#e6f7e6' };
-                case 'en proceso': return { backgroundColor: '#fffae6' };
-                case 'irregular': return { backgroundColor: '#f2f2f2' };
+                case 'vigente': return { backgroundColor: '#e6f7e6', color: '#000' };
+                case 'en proceso': return { backgroundColor: '#fffae6', color: '#000' };
+                case 'irregular': return { backgroundColor: '#f2f2f2', color: '#000' };
                 default: return {};
               }
             }
