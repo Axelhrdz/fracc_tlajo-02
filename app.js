@@ -21,7 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2027-05-15",
             pdf_convenio_path: "documents/casa-fuerte.pdf",
             observaciones: "Casa fuerte convenio de colaboracion vigente hasta 2027, con opcion de solicitar prorroga",
-            autosuficiente: true
+            autosuficiente: true,
+            entregado: true
         },
         {
             id: 2,
@@ -30,7 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2018-01-01",
             pdf_convenio_path: null,
             observaciones: "Según últimos registros, hay acta de acuerdo, para entrega recepción del 2006. Menciona que se entrega la infraestructura de agua y drenaje, no tienen título de pozo. El 5 de diciembre de 2023 se presentó a secretaria general solicitud para convenio de colaboración. No hubo más actualización desde entonces.",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: false
         },
         {
             id: 3,
@@ -39,7 +41,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2031-01-01",
             pdf_convenio_path: "documents/bosque-real.pdf",
             observaciones: "Convenio vigente hasta 2027",
-            autosuficiente: true
+            autosuficiente: true,
+            entregado: true
         },
         {
             id: 4,
@@ -47,17 +50,9 @@ document.addEventListener("DOMContentLoaded", () => {
             categoria: "vigente",
             fecha_fin_convenio: "2027-01-01",
             pdf_convenio_path: "documents/senderos-de-monteverde.pdf",
-            observaciones: "Convenio vigente hasta 2027",
-            autosuficiente: true
-        },
-        {
-            id: 4,
-            nombre: "Senderos de Monteverde",
-            categoria: "vigente",
-            fecha_fin_convenio: "2027-01-01",
-            pdf_convenio_path: "documents/senderos-de-monteverde.pdf",
-            observaciones: "Convenio vigente hasta 2027",
-            autosuficiente: true
+            observaciones: "Convenio vigente hasta 2027. Solo la etapa 1 Esta entregada, el resto del fraccionamiento no, de acuerdo a ultimos registros.",
+            autosuficiente: true,
+            entregado: false
         },
         {
             id: 4,
@@ -66,7 +61,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2026-01-01",
             pdf_convenio_path: "documents/valle-de-las-flores.pdf",
             observaciones: "Convenio vigente hasta 2026",
-            autosuficiente: true
+            autosuficiente: true,
+            entregado: true
         },
         {
             id: 4,
@@ -75,7 +71,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2025-02-28",
             pdf_convenio_path: null,
             observaciones: "Convenio vencido en Febrebro de 2025",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
@@ -84,7 +81,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
             observaciones: "Convenio vigente hasta 2027",
-            autosuficiente: true
+            autosuficiente: false,
+            entregado: false
         },
         {
             id: 4,
@@ -93,7 +91,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2027-01-01",
             pdf_convenio_path: "documents/bosques-de-santa-anita.pdf",
             observaciones: "Convenio de colaboracion vigente hasta 2027.",
-            autosuficiente: true
+            autosuficiente: true,
+            entregado: true
         },
         {
             id: 4,
@@ -102,16 +101,18 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: "2040-01-01",
             pdf_convenio_path: "documents/siglo-XXI.pdf",
             observaciones: "Concesion vigente hasta 2040",
-            autosuficiente: true
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
-            nombre: "Tres Retes Cajititlan",
+            nombre: "Tres Reyes Cajititlan",
             categoria: "en proceso",
             fecha_fin_convenio: "2018-01-01",
             pdf_convenio_path: null,
             observaciones: "Convenio de colaboracion vencdio en 2018",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
@@ -119,8 +120,9 @@ document.addEventListener("DOMContentLoaded", () => {
             categoria: "en proceso",
             fecha_fin_convenio: "2018-01-01",
             pdf_convenio_path: null,
-            observaciones: "Convenio de colaboracion vencdio en 2018",
-            autosuficiente: false
+            observaciones: "Convenio de colaboracion vencdio en 2018.",
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
@@ -128,8 +130,9 @@ document.addEventListener("DOMContentLoaded", () => {
             categoria: "en proceso",
             fecha_fin_convenio: "2018-01-01",
             pdf_convenio_path: null,
-            observaciones: "Concesion vigente hasta 2040",
-            autosuficiente: false
+            observaciones: "Convenio de colaboracion vencido en 2018.",
+            autosuficiente: false,
+            entregado: false
         },
         {
             id: 4,
@@ -137,8 +140,9 @@ document.addEventListener("DOMContentLoaded", () => {
             categoria: "irregular",
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
-            observaciones: "Concesion vigente hasta 2040",
-            autosuficiente: false
+            observaciones: "No convenio o concesion existente. Se tiene que acercar la asociacion de coloons para hacer un convenio y poder dejar de cobrar.",
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
@@ -147,7 +151,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
             observaciones: "No tiene concesión o convenio, es un convenio con México inversiones. Según los últimos registros, el municipio no presta el servicio. Tienen título de pozo, pero a nombre de México inversiones. En junio de 2026 se vence convenio para tomar aguas residuales y tratarlas para regar el club de golf El Cielo.",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: false
         },
         {
             id: 4,
@@ -156,7 +161,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
             observaciones: "El agua es administrada por el desarrollador, no tiene redes de drenaje. Según últimos registros, no quieren entregar el título de pozo al municipio para que sea concesión.",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
@@ -165,7 +171,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
             observaciones: "Según últimos registros, el estado de este fraccionamiento es irregular, el agua es administrada por condominio, alcantarillado a cargo del municipio. No hay información de si cuentan con título de pozo.",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: false
         },
         {
             id: 4,
@@ -174,7 +181,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
             observaciones: "Según últimos registros, se hizo entrega recepción, condicionado a dos años de transición, donde se hará cargo el desarrollador del servicio. El municipio cobra por estar recepcionado. El agua lo opera el fraccionador. De la etapa 1 y 2 se conectan al alcantarillado del municipio. De la etapa 3 a la 9 tienen planta de tratamiento.",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: true
         },
         {
             id: 4,
@@ -183,7 +191,8 @@ document.addEventListener("DOMContentLoaded", () => {
             fecha_fin_convenio: null,
             pdf_convenio_path: null,
             observaciones: "Fraccionamiento entregado el 22 de abril de 2022. No tiene convenio ni concesión. El agua está a cargo del municipio, pero el drenaje estaba a cargo del desarrollador; contaban con planta de tratamiento. Se recibe en 2022 y se dictamina cobrar todos los servicios. Las aperturas de cuenta de agua quedan con fecha de la solicitud.",
-            autosuficiente: false
+            autosuficiente: false,
+            entregado: true
         }
     ];
 
@@ -341,7 +350,7 @@ document.addEventListener("DOMContentLoaded", () => {
             filter: 'agTextColumnFilter'
         },
         {
-            headerName: 'Categoria',
+            headerName: 'Categoria / Estatus convenio',
             field: 'categoria',
             filter: 'agTextColumnFilter',
             cellStyle: params => {
@@ -379,13 +388,24 @@ document.addEventListener("DOMContentLoaded", () => {
         {
           headerName: 'Autosuficiente',
           field: 'autosuficiente',
-          cellRenderer: autosuficienteCellRenderer, // Use the custom renderer
-          // Or if you prefer text representation:
-          // valueFormatter: (params) => params.value ? 'Sí' : 'No',
-          filter: 'agBooleanColumnFilter', // Enable boolean filtering
-          filterParams: {
-            cellRenderer: autosuficienteCellRenderer // Optional: show checkboxes in filter
-          }
+        //   cellRenderer: autosuficienteCellRenderer, // Use the custom renderer
+        //   // Or if you prefer text representation:
+        //   // valueFormatter: (params) => params.value ? 'Sí' : 'No',
+        //   filter: 'agBooleanColumnFilter', // Enable boolean filtering
+        //   filterParams: {
+        //     cellRenderer: autosuficienteCellRenderer // Optional: show checkboxes in filter
+        //   }
+        },
+        {
+          headerName: 'Entregado',
+          field: 'entregado',
+        //   cellRenderer: autosuficienteCellRenderer, // Use the custom renderer
+        //   // Or if you prefer text representation:
+        //   // valueFormatter: (params) => params.value ? 'Sí' : 'No',
+        //   filter: 'agBooleanColumnFilter', // Enable boolean filtering
+        //   filterParams: {
+        //     cellRenderer: autosuficienteCellRenderer // Optional: show checkboxes in filter
+        //   }
         },
     ];
   
