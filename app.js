@@ -340,7 +340,7 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             headerName: 'PDF',
             field: 'pdf_convenio_path',
-            editable: true,
+            editable: false,
             cellRenderer: pdfLinkCellRenderer,
         },
         {
