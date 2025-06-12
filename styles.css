@@ -272,4 +272,10 @@ body {
   font-weight: 500;
 }
 
+.beta-header{
+    position: absolute;
+    left: 2rem;
+    top: 4rem;
+}
+
 
