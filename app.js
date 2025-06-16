@@ -25,6 +25,16 @@ document.addEventListener("DOMContentLoaded", () => {
             entregado: true
         },
         {
+            id: 1,
+            nombre: "El Manantial",
+            categoria: "en proceso",
+            fecha_fin_convenio: "2024-01-01",
+            pdf_convenio_path: null,
+            observaciones: "Prorroga de convenio vencio en 2024. Se solicito otra prorroga hasta 2027, aun esta en proceso de firma dicha prorroga.",
+            autosuficiente: true,
+            entregado: true
+        },
+        {
             id: 2,
             nombre: "Colinas de Cajititlan",
             categoria: "irregular",
@@ -193,7 +203,28 @@ document.addEventListener("DOMContentLoaded", () => {
             observaciones: "Fraccionamiento entregado el 22 de abril de 2022. No tiene convenio ni concesión. El agua está a cargo del municipio, pero el drenaje estaba a cargo del desarrollador; contaban con planta de tratamiento. Se recibe en 2022 y se dictamina cobrar todos los servicios. Las aperturas de cuenta de agua quedan con fecha de la solicitud.",
             autosuficiente: false,
             entregado: true
-        }
+        },
+        {
+            id: 4,
+            nombre: "Albazur",
+            categoria: "en desarrollo",
+            fecha_fin_convenio: null,
+            pdf_convenio_path: null,
+            observaciones: "Factibilidad 136/2021 pagada, no favorable en agua y si favorable en alcantarillado. Titulo de concesion de pozo entregado, las altas de cuentas seran con fecha de la solicitud.",
+            autosuficiente: false,
+            entregado: false
+        },
+        {
+            id: 4,
+            nombre: "Alta California",
+            categoria: "irregular",
+            fecha_fin_convenio: null,
+            pdf_convenio_path: null,
+            observaciones: "El agua y drenaje es administrada por el desarrrollador, conforme ultimos registros, menciona que hay titulos apocrifos. ",
+            autosuficiente: false,
+            entregado: false
+        },
+
     ];
 
 
