@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 case 'vigente': return { backgroundColor: '#e6f7e6', color: '#000' };
                 case 'en proceso': return { backgroundColor: '#fffae6', color: '#000' };
                 case 'vencido': return { backgroundColor: '#ff5757', color: '#000' };
-                case 'irregular': return { backgroundColor: '#5f5f5f', color: '#fff' };
+                case 'irregular': return { backgroundColor: '#d6d6d6', color: '#000' };
                 case 'entregado': return { backgroundColor: '#c5ffd0', color: '#000' };
                 default: return {};
               }
