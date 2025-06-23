@@ -13,220 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const modalPdfLink = document.getElementById("modalPdfLink");
     const modalObservaciones = document.getElementById("modalObservaciones");
 
-    const staticData = [
-        {
-            id: 1,
-            nombre: "Casa Fuerte",
-            categoria: "vigente",
-            fecha_fin_convenio: "2027-05-15",
-            pdf_convenio_path: "documents/casa-fuerte.pdf",
-            observaciones: "Casa fuerte convenio de colaboracion vigente hasta 2027, con opcion de solicitar prorroga",
-            autosuficiente: true,
-            entregado: true
-        },
-        {
-            id: 1,
-            nombre: "El Manantial",
-            categoria: "en proceso",
-            fecha_fin_convenio: "2024-01-01",
-            pdf_convenio_path: null,
-            observaciones: "Prorroga de convenio vencio en 2024. Se solicito otra prorroga hasta 2027, aun esta en proceso de firma dicha prorroga.",
-            autosuficiente: true,
-            entregado: true
-        },
-        {
-            id: 2,
-            nombre: "Colinas de Cajititlan",
-            categoria: "irregular",
-            fecha_fin_convenio: "2018-01-01",
-            pdf_convenio_path: null,
-            observaciones: "Según últimos registros, hay acta de acuerdo, para entrega recepción del 2006. Menciona que se entrega la infraestructura de agua y drenaje, no tienen título de pozo. El 5 de diciembre de 2023 se presentó a secretaria general solicitud para convenio de colaboración. No hubo más actualización desde entonces.",
-            autosuficiente: false,
-            entregado: false
-        },
-        {
-            id: 3,
-            nombre: "Bosque Real",
-            categoria: "vigente",
-            fecha_fin_convenio: "2031-01-01",
-            pdf_convenio_path: "documents/bosque-real.pdf",
-            observaciones: "Convenio vigente hasta 2027",
-            autosuficiente: true,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Senderos de Monteverde",
-            categoria: "vigente",
-            fecha_fin_convenio: "2027-01-01",
-            pdf_convenio_path: "documents/senderos-de-monteverde.pdf",
-            observaciones: "Convenio vigente hasta 2027. Solo la etapa 1 Esta entregada, el resto del fraccionamiento no, de acuerdo a ultimos registros.",
-            autosuficiente: true,
-            entregado: false
-        },
-        {
-            id: 4,
-            nombre: "Valle de las Flores",
-            categoria: "vigente",
-            fecha_fin_convenio: "2026-01-01",
-            pdf_convenio_path: "documents/valle-de-las-flores.pdf",
-            observaciones: "Convenio vigente hasta 2026",
-            autosuficiente: true,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Lomas de Santa Anita",
-            categoria: "en proceso",
-            fecha_fin_convenio: "2025-02-28",
-            pdf_convenio_path: null,
-            observaciones: "Convenio vencido en Febrebro de 2025",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Acueducto San Agustin",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "Convenio vigente hasta 2027",
-            autosuficiente: false,
-            entregado: false
-        },
-        {
-            id: 4,
-            nombre: "Bosques de Santa Anita",
-            categoria: "vigente",
-            fecha_fin_convenio: "2027-01-01",
-            pdf_convenio_path: "documents/bosques-de-santa-anita.pdf",
-            observaciones: "Convenio de colaboracion vigente hasta 2027.",
-            autosuficiente: true,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Condominio Siglo XXI",
-            categoria: "vigente",
-            fecha_fin_convenio: "2040-01-01",
-            pdf_convenio_path: "documents/siglo-XXI.pdf",
-            observaciones: "Concesion vigente hasta 2040",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Tres Reyes Cajititlan",
-            categoria: "en proceso",
-            fecha_fin_convenio: "2018-01-01",
-            pdf_convenio_path: null,
-            observaciones: "Convenio de colaboracion vencdio en 2018",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "La Noria de los Reyes",
-            categoria: "en proceso",
-            fecha_fin_convenio: "2018-01-01",
-            pdf_convenio_path: null,
-            observaciones: "Convenio de colaboracion vencdio en 2018.",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Pedregal San Miguel",
-            categoria: "en proceso",
-            fecha_fin_convenio: "2018-01-01",
-            pdf_convenio_path: null,
-            observaciones: "Convenio de colaboracion vencido en 2018.",
-            autosuficiente: false,
-            entregado: false
-        },
-        {
-            id: 4,
-            nombre: "San Remo",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "No convenio o concesion existente. Se tiene que acercar la asociacion de coloons para hacer un convenio y poder dejar de cobrar.",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "El Cielo Palomar",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "No tiene concesión o convenio, es un convenio con México inversiones. Según los últimos registros, el municipio no presta el servicio. Tienen título de pozo, pero a nombre de México inversiones. En junio de 2026 se vence convenio para tomar aguas residuales y tratarlas para regar el club de golf El Cielo.",
-            autosuficiente: false,
-            entregado: false
-        },
-        {
-            id: 4,
-            nombre: "Balcones de la Calera",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "El agua es administrada por el desarrollador, no tiene redes de drenaje. Según últimos registros, no quieren entregar el título de pozo al municipio para que sea concesión.",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Acueducto San Javier",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "Según últimos registros, el estado de este fraccionamiento es irregular, el agua es administrada por condominio, alcantarillado a cargo del municipio. No hay información de si cuentan con título de pozo.",
-            autosuficiente: false,
-            entregado: false
-        },
-        {
-            id: 4,
-            nombre: "Adamar",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "Según últimos registros, se hizo entrega recepción, condicionado a dos años de transición, donde se hará cargo el desarrollador del servicio. El municipio cobra por estar recepcionado. El agua lo opera el fraccionador. De la etapa 1 y 2 se conectan al alcantarillado del municipio. De la etapa 3 a la 9 tienen planta de tratamiento.",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Alberi Residencial",
-            categoria: "entregado",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "Fraccionamiento entregado el 22 de abril de 2022. No tiene convenio ni concesión. El agua está a cargo del municipio, pero el drenaje estaba a cargo del desarrollador; contaban con planta de tratamiento. Se recibe en 2022 y se dictamina cobrar todos los servicios. Las aperturas de cuenta de agua quedan con fecha de la solicitud.",
-            autosuficiente: false,
-            entregado: true
-        },
-        {
-            id: 4,
-            nombre: "Albazur",
-            categoria: "en desarrollo",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "Factibilidad 136/2021 pagada, no favorable en agua y si favorable en alcantarillado. Titulo de concesion de pozo entregado, las altas de cuentas seran con fecha de la solicitud.",
-            autosuficiente: false,
-            entregado: false
-        },
-        {
-            id: 4,
-            nombre: "Alta California",
-            categoria: "irregular",
-            fecha_fin_convenio: null,
-            pdf_convenio_path: null,
-            observaciones: "El agua y drenaje es administrada por el desarrrollador, conforme ultimos registros, menciona que hay titulos apocrifos. ",
-            autosuficiente: false,
-            entregado: false
-        },
-
-    ];
-
 
     // HELPER FUNCTIONS
     //format column dates
@@ -386,9 +172,12 @@ document.addEventListener("DOMContentLoaded", () => {
             filter: 'agTextColumnFilter',
             cellStyle: params => {
               switch (params.value) {
+                case 'convenio': return { backgroundColor: '#0ba9f8', color: '#fff', fontWeight: 'bold' };
                 case 'vigente': return { backgroundColor: '#e6f7e6', color: '#000' };
                 case 'en proceso': return { backgroundColor: '#fffae6', color: '#000' };
-                case 'irregular': return { backgroundColor: '#f2f2f2', color: '#000' };
+                case 'vencido': return { backgroundColor: '#ff5757', color: '#000' };
+                case 'irregular': return { backgroundColor: '#5f5f5f', color: '#fff' };
+                case 'entregado': return { backgroundColor: '#c5ffd0', color: '#000' };
                 default: return {};
               }
             }
@@ -469,19 +258,33 @@ document.addEventListener("DOMContentLoaded", () => {
     // Grid Options
     const gridOptions = {
       columnDefs: columnDefs,
-      rowData: staticData, // Set the fetched data here
-      // You can add more grid options here, e.g., pagination, sorting, filtering
+      rowData: null,
       pagination: true,
       paginationPageSize: 10,
-      suppressRowClickSelection: true, // Example: disable row selection on click
-      // Other options like:
       defaultColDef: {
         flex: 1,
         minWidth: 100,
       },
+      onGridReady: (params) => {
+        fetch("convenios.json")
+          .then((response) => {
+            // console.log(response);
+            if (!response.ok) throw new Error("Failed to load JSON");
+            return response.json();
+          })
+          .then((data) => {
+            params.api.setGridOption('rowData', data); // ✅ modern method
+            console.log(data);
+          })
+          .catch((error) => {
+            console.error("Error loading convenios.json:", error);
+          });
+      }
     };
+    
+    // Create the grid
+    // agGrid.createGrid(gridDiv, gridOptions);
     agGrid.createGrid(gridDiv, gridOptions);
-  
-    // Call the function to initialize the grid
-    // initializeGrid();
+
+
   });

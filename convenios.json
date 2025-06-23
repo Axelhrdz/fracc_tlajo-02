@@ -1,0 +1,3107 @@
+[
+    {
+        "nombre": "ACUEDUCTO SAN AGUSTIN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos. Segun ultimos registros, patrimonio lo tiene registrado como no entregado.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "ACUEDUCTO SAN JAVIER",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "Según últimos registros, el estado de este fraccionamiento es irregular, el agua es administrada por condominio, alcantarillado a cargo del municipio. No hay información de si cuentan con título de pozo.",
+        "autosuficiente": false,
+        "entregado": false
+    },
+    {
+        "nombre": "ADAMAR",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "Según últimos registros, se hizo entrega recepción, condicionado a dos años de transición, donde se hará cargo el desarrollador del servicio. El municipio cobra por estar recepcionado. El agua lo opera el fraccionador. De la etapa 1 y 2 se conectan al alcantarillado del municipio. De la etapa 3 a la 9 tienen planta de tratamiento.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "ALBERI RESIDENCIAL .",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "ALTA CALIFORNIA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "El agua y drenaje es administrada por el desarrrollador, conforme ultimos registros, menciona que hay titulos apocrifos.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "ALTARA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el municipio administra el agua, y el desarrollador la ptar",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "ALTEA ( EN EL PADRON ESTA COMO RESIDENCIAL ALTEA)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "ALTUS BOSQUES",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "ARBOLADA BOSQUES DE SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por condominos . esta en proceso de georeferencia.  fraccionamiento con tratamiento con alma delia. para instalacion de medidores.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "ARBOLEDAS DE SANTA ANITA (ARBOLADAS DE SANTA ANITA)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "ARBORE RESIDENCIAL",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "ARCOS DE LA CRUZ",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "ARCOS DE SAN SEBASTIAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "ARVENTO",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "apoyo del municipio",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "ASTURIAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO ATMOSFERA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CONDOMINIO INDUSTRIAL SIGLO XXI",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2040-01-01",
+        "pdf_convenio_path": "documents/siglo-XXI.pdf",
+        "observaciones": "Concesion vigente hasta 2040",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "BALCONES DE LA CALERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "El agua es administrada por el desarrollador, no tiene redes de drenaje. Según últimos registros, no quieren entregar el título de pozo al municipio para que sea concesión.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "BALCONES DE SANTA ANITA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "BANUS RESIDENCIAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "BELCANTO",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "BELLATERRA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente.. entregado segun ordenamiento territorial 1er y 3era etapa desde  dic 2016.",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "BONANZA RESIDENCIAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "BOSKIA SUR RESIDENCIAL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador ??????",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "BOSQUE REAL",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2031-01-01",
+        "pdf_convenio_path": "documents/bosque-real.pdf",
+        "observaciones": "el agua es administrada por la administracion del condominio,  se firmo una concesion en septiembre del 2021.   se solicita modificar clausulas e incluir otras para que entreguen  el monto de los derechos del titulo, el 3% de la infraesctructura, 5% por gtos de administracion y cna si estan al corriente en sus cuotas de mantenimiento",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "BOSQUES DE LA ESPERANZA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "BOSQUES DE LAS MORAS (LOS MANZANOS)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua  es administrada por los  condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "BOSQUES DE LOS CAMICHINES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "BOSQUES DE LOS CEDROS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "proceso de entrega desde el 30/12/2014",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "BOSQUES DE SANTA ANITA",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2026-12-31",
+        "pdf_convenio_path": "documents/bosques-de-santa-anita.pdf",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "CAMACHO GUZMAN GREGORIO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CAMICHINES LA TIJERA CONDOMINIO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CAMPESTRE LAS FLORES",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CAMPO NOGAL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos. muestran un titulo de concecion de conagua de gavilanes oriente de 1990 y con eso dicen que tienen la concesion según acta del 12 de diciembre del 2000 que se declara como organismo operador del agua.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CAMPO SUR",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos..",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CAÑADAS DEL BOSQUE",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "se aperturaron 434 cuentas en marzo del 2022. la factibilidad se emitio como condicionada para autosuficiente en abril del 2021",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "CASA BLANCA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CHULAVISTA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CIELITO LINDO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CIMA DEL SOL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CLUB HIPICO HACIENDA DEL ORO",
+        "categoria": "irregular es regimen de condominio o no?",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "patrimonio lo tiene como no entregado",
+        "autosuficiente": false,
+        "entregado": "irregular es regimen de condominio o no?"
+    },
+    {
+        "nombre": "COLINA REAL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "proceso de entrega con apoyo del municipio",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "COLINAS DE CAJITITLAN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "Según últimos registros, hay acta de acuerdo, para entrega recepción del 2006. Menciona que se entrega la infraestructura de agua y drenaje, no tienen título de pozo. El 5 de diciembre de 2023 se presentó a secretaria general solicitud para convenio de colaboración. No hubo más actualización desde entonces.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "COLINAS DE LA CRUZ",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador. ya se concluyeron las obras por el municipio en marzo del 2022 según oficio dgot/drou-26/22",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "COLINAS DE SANTA ANITA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "COLINAS DESARROLLO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO AMELIA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO EL DERRAMADERO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO JADE",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos. falta confirmar con agua potable",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "CONDOMINIO LOS TULIPANES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO PARQUE LA TIJERA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "CONDOMINIO SAN AGUSTIN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO SANTA MARIA (RANCHO SANTA ANITA)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CONDOMINIO TULIPANES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "CORTIJO SAN AGUSTIN",
+        "categoria": "no entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "no entregado"
+    },
+    {
+        "nombre": "COTO DEL VALLE (SAN MIGUEL CUYUTLAN)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "COTO LOS REYES 2 Y IIII",
+        "categoria": "vencido",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "constructora de urbanizaciones del sur de jalisco sa de cv",
+        "autosuficiente": false,
+        "entregado": "convenio"
+    },
+    {
+        "nombre": "CUMBRES (COLINAS DEL ROBLE)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "DE TEJEDA HABITACIONAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "DEL PILAR RESIDENCIAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL ARROYO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL CAMICHIN DE SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL CANTERO residencial",
+        "categoria": "en desarrollo",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "en desarrollo"
+    },
+    {
+        "nombre": "EL CHIRIMOYO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL CIELO - PALOMAR",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "No tiene concesión o convenio, es un convenio con México inversiones. Según los últimos registros, el municipio no presta el servicio. Tienen título de pozo, pero a nombre de México inversiones. En junio de 2026 se vence convenio para tomar aguas residuales y tratarlas para regar el club de golf El Cielo.",
+        "autosuficiente": false,
+        "entregado": false
+    },
+    {
+        "nombre": "EL COLIBRI",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL CONICO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL DERRAMADERO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL ENCANTO",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "EL ESQUIVEL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL GALLO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por particular",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL LAGO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "se revisa quien administra el agua . se tiene factibilidad favorable",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL MANANTIAL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "2023-12-31",
+        "pdf_convenio_path": "",
+        "observaciones": "Prorroga de convenio vencio en 2024. Se solicito otra prorroga hasta 2027, aun esta en proceso de firma dicha prorroga.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "EL ORIGEN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "comparte entre municipio y condominos",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL PALOMAR",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el palomar de abajo tiene las 2 redes y el palomar  ( valles) de arriba solo tiene red de agua .",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL PARAISO (SAN JOSE DEL VALLE)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL PARAISO DE SAN SEBASTIAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "EL RENACIMIENTO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL TECOLOTE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "EL ZALATE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "ELEMENTIA (ELEMENT)",
+        "categoria": "entregado parcial",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "entregado parcial"
+    },
+    {
+        "nombre": "FORESTA SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por la desarrolladora viveica y los condominos le pagan a viveica.   hay un regimen de condominio en el condominio oyamel.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "FRACCIONAMIENTO PUEBLO NUEVO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "FRACCIONAMIENTO SAN MIGUEL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "FRACCIONAMIENTO SANTA FE TLAJOMULCO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "GEOVILLAS LA ARBOLADA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "av valle de san noe hasta el fraccionamiento, villas del nayar",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "GEOVILLAS LA ARBOLADA PLUS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "av valle de san noe hasta el fraccionamiento, villas del nayar",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "GRANJAS EL PARAISO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HABITAT ALTIPLANO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HABITAT SAN MILLAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador  porque la bomba no sirve y no ha terminado de entregar . drenaje es fosa septica no se conectan municipio.",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA CASA FUERTE",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2027-05-14",
+        "pdf_convenio_path": "documents/casa-fuerte.pdf",
+        "observaciones": "operadora de aguas manantiales de casa fuerte sa de cv con convenio vencido",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "HACIENDA DE LOS EUCALIPTOS",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso; valle de los eucaliptos, vallede las margosas, valle de los nonis, valle de los guamitos, valle de los jabillos, valle de los almendros, valle de los carpeces, valle de los abetos, valle de los beteles, valle de los nogales.",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "HACIENDA DEL SUR",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HACIENDA LA NORIA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "paseo hacienda la noria, de la espuma, aguacero, tifon, acantilado, estrella de mar norte, estrella de mar sur, erizo, llovizna, oasis, molino de viento, viento, acueducto",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA LA PURISIMA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA LA TIJERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HACIENDA LOS FRESNOS",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no ha concluido; entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "HACIENDA LOS LAURELES (SAN AGUSTIN)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HACIENDA MIRAGE",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada  por los condominos. pasa por el frente de la entrada una red de drenaje.  tienen pozo propio y lo administran.. no se conectan al drenaje del municipio. tienen planta de tratamiento fuera de norma. el titulo de la concesión es por 56,600 m3 por año. hay una acta de entrega recepcion del 24 dic 2003 y contrato de cesion de derechos del titulo del agua del pozo pero en conagua sigue a nombre del condominio.",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA REAL (HACIENDA AGAVE)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA REAL DE COLIMA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA SAN AGUSTIN (PUEBLO BONITO)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HACIENDA SAN MIGUEL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "HACIENDA SANTA CRUZ",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "HACIENDA SANTA FE",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no ha concluido; entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "HACIENDAS DEL PARQUE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "san cristobal, santa catalina, av. camino real, la sauceda",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HEROES DE NACOZARI",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HUERTA MARIA LUISA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "HUERTAS PRODUCTIVAS DE JALISCO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "JARDIN DE LAS MORAS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "JARDINES DE LA ALAMEDA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "JARDINES DE LA CALERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "existe un poligono que no tiene red de agua ni de drenaje. el resto del fraccionamiento solo tiene red de agua. el municipio la suministra a veces por pipa",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "JARDINES DE LA HACIENDA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "JARDINES DE PRIMAVERA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "JARDINES DE SAN SEBASTIAN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "JARDINES DE SANTA ANITA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "JARDINES DE TLAJOMULCO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "en la escrtitura de entrega solo tienen red de agua no hay drenaje.  y en las cuentas de agua anteriores si les cobran las dos redes",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "JARDINES DE VERANO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "actualmente se cobra y se prestan los servicios . se cedio al municipio por un convenio de cesion de derechos del fideicomiso fondo nacional de habitaciones populares en mayo del 2021",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "JARDINES EL SANTO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "KATANIA RESIDENCIAL",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "LA AGUACATERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA ANTIGUA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "LA CASTILLEJA",
+        "categoria": "en desarrollo",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "en desarrollo"
+    },
+    {
+        "nombre": "LA CIBELA RESIDENCIAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA COMPUERTA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA CONCHA JARDIN RESIDENCIAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA CRUZ (TLAJOMULCO)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA ESTANCIA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "LA FORTUNA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA FRESNA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego, condominios administran",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LA HERRADURA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA JOLLA (VILLAS CALIFORNIA)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "ya se entregaron  y estan en el periodo de  daños ocultos por dos años",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA LADRILLERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA LOMA 2",
+        "categoria": "?????",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "?????"
+    },
+    {
+        "nombre": "LA LOMITA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA NORIA DE LOS REYES",
+        "categoria": "vencido",
+        "fecha_fin_convenio": "2018-12-31",
+        "pdf_convenio_path": "",
+        "observaciones": "Convenio de colaboracion vencdio en 2018.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "LA NUEVA VICTORIA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA PERLA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA PERLITA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA PRADA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego, desarrollador administra; fraccionamiento completo",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LA PURISIMA (CHAPALA)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LA RESERVA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "LA RIOJA",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2026-12-31",
+        "pdf_convenio_path": "",
+        "observaciones": "operadora de agua potable de occidente sa de cv, convenio vigente hasta 2026",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "PROVENZA RESIDENCIAL ( ANTES LA ROMANA O PROVENZA)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos.  si tienen titulo del pozo, falta ponerlo a nombre del municipio . para hacer la concesion a la administracion del fraccionamiento",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA RUA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego, desarrollador administra. en drive agua potable dice que si otorga el servicio de agua potable y drenaje al 14 marzo 2022",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LA VICTORIA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LAGO NOGAL",
+        "categoria": "entregado parcial",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos y el drenaje el municipio",
+        "autosuficiente": false,
+        "entregado": "entregado parcial"
+    },
+    {
+        "nombre": "LAS CASAS DE SAN SEBASTIAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LAS FLORES (INFONAVIT TLAJOMULCO)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LAS FLORES DE SAN AGUSTIN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LAS GALEANAS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LAS GAVIOTAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua la administran los condominos, y si hay redes de agua en cada predio",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LAS GRULLAS",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego, desarrollador administra",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LAS LAJAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LAS LUCES",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LAS MORAS FRACCIONAMIENTO",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "LAS PALMAS",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego, desarrollador administra.. ya se entrego informo ordenamiento territorial febrero 2023",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LAS PALOMAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por particular (org operador)",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LAS TROJES",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LAS VILLAS ( LAS VILLAS DLV / EL PALOMAR)",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego, desarrollador administra",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LAS VILLAS G Y G",
+        "categoria": "en proceso unas partes entregadas y otras en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "en proceso unas partes entregadas y otras en proceso"
+    },
+    {
+        "nombre": "LOMAS DE SAN AGUSTIN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "solo avenida la piedrera",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOMAS DE SAN DIEGO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOMAS DE SANTA ANITA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "2025-02-27",
+        "pdf_convenio_path": "",
+        "observaciones": "Convenio vencido en Febrebro de 2025",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "LOMAS DE TEJEDA CONDOMINIO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOMAS DEL CARMEN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOMAS DEL MIRADOR",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOMAS DEL SUR",
+        "categoria": "entregadas varias etapas",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no ha concluido; entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "entregadas varias etapas"
+    },
+    {
+        "nombre": "LOMAS HABITACIONAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOS ABEDULES",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LOS AGUSTINOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS ALAMOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS ALCATRACES",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LOS AVILA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS CANTAROS",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no ha concluido; entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LOS CIRUELOS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOS CUATRO CAMICHINES",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOS DOLORES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS DOLORES(GRIJALVA)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS ENCINOS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "problemas de inseguridad  fuertes",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOS GAVILANES ORIENTE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos  hay una carta de la asociacion que dice que con el titulo de la concesion del pozo de conagua .  hay una copia de un comodato de 1992, para la administracion de los pozos, pero tenia que renovarse cada año, lo cual no paso.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS GAVILANES PONIENTE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el municipio se hace cargo del agua y del drenaje",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS JUNCOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS LARIOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS LAURELES CONDOMINIO (CAMINO A LAS MORAS)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos y tienen planta de tratamiento",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS LAURELES SAN AGUSTIN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOS MEZQUITEZ (TLAJOMULCO)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "LOS MORALES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS NOGALES",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no entrego,",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "LOS OCAMPO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS OLMOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS PORTALES DE SAN SEBASTIAN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS ROBLES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS ROBLES II",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "LOS SAUCES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "MIRADOR DEL VALLE",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "FRACCIONAMIENTO NIÑOS HEROES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el drenaje descarga  ala red de tlaquepaque, del agua la toma del pozo particular cada predio tiene una toma . la presidenta de colonos dice que son de tlaquepaque.  pero pagan el predial a tlajomulco",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "NOVATERRA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "NUEVA ALAMEDA",
+        "categoria": "localidad",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "localidad"
+    },
+    {
+        "nombre": "NUEVA GALICIA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "entregado por etapas",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "NUEVO COFRADIA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por el municipio . falta que digan que falta para la entrega recepcion, o porque esta como irregular",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "NUEVO SAN MIGUEL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "ya entregado",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "NUEVO TLAJOMULCO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "OJO DE AGUA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "OPORTO RESIDENCIAL (CAMBIO A VITAD RESIDENCIAL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente. cambio de nombre en agosto del 2021. a vitad residencial  folio 223134",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "ORBARA HABITAT",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "PALMA REAL CONDOMINIO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por particular (org operador)",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PASEO DE LAS AVES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PASEO DE LOS AGAVES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por ellos con apoyo del municipio",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PASEOS DEL VALLE",
+        "categoria": "no entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador. al dia 30 de noviembre 2022 abandono el desarrollador solo paga la luz del pozo",
+        "autosuficiente": false,
+        "entregado": "no esta entregado"
+    },
+    {
+        "nombre": "PEDREGAL DE SAN MIGUEL",
+        "categoria": "vencido",
+        "fecha_fin_convenio": "2018-12-31",
+        "pdf_convenio_path": "",
+        "observaciones": "Convenio de colaboracion vencido en 2018.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "PLAYAS DE CAJITITLAN",
+        "categoria": "entregado sin acta de entrega",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "fue urbanizado en 1973 no hay acta de entrega.",
+        "autosuficiente": false,
+        "entregado": "entregado sin acta de entrega"
+    },
+    {
+        "nombre": "PONTEVEDRA",
+        "categoria": "abandonado por  el desarrollador",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "abandonado por  el desarrollador"
+    },
+    {
+        "nombre": "PRADERAS DE LA ALAMEDA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PRADOS DE LA HIGUERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PRAVIA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PRIVADA SANTA ANITA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "PRIVADA VICENTE GUERRERO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PRIVANZA CAMINO REAL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PUERTA EL CORTIJO COND.",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "PUERTA MAGNOLIA.",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "PUERTA REAL",
+        "categoria": "no entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "no entregada"
+    },
+    {
+        "nombre": "PUERTAS DEL ANGEL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const en 2019 . entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "PUERTA DE PIEDRA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "PUESTA DEL SOL - PUESTA DEL SOL II",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "PUNTA CORAL AQUA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente; calles via aqua, aqua cielo ote, aqua cielo pte, aqua lluvia ote, aqua lluvia pte, aqua marina ote, aqua marina pte, aqua azul ote, aqua azul pte",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "PUNTO SUR",
+        "categoria": "en proceso. entregada etapa 1 2 3",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "entregadas las etapas 1 2 3",
+        "autosuficiente": false,
+        "entregado": "en proceso. entregada etapa 1 2 3"
+    },
+    {
+        "nombre": "QUINTA JACARANDAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "QUINTA SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "QUINTAS DEL VALLE",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "RANCHO ALEGRE",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RANCHO CERRO VIEJO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RANCHO GRANDE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RANCHO SAN JOSE DEL TAJO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "REAL BANUS",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "REAL DE NAVARRA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "REAL DE SAN SEBASTIAN",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "REAL DE SANTA ANITA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "REAL DE SANTA ANITA I Y II",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "REAL DEL BOSQUE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos via pipas, antes con el pozo de naturezza",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "REAL DEL MONTE",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "REAL DEL PARQUE",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "REAL DEL SOL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "Real del Valle (San José del Valle)",
+        "categoria": "en desarrollo",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso, av valle de san noe hasta el fraccionamiento, villas del nayar",
+        "autosuficiente": false,
+        "entregado": "en desarrollo"
+    },
+    {
+        "nombre": "REAL SAN IGNACIO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RENACERES",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "RESIDENCIAL BAMBU",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL JARDIN DEL EDEN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "av ingreso, acueducto, noe, matusalen, abel, joel, av. adan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL LA MORA  / LA MORA RESIDENCIAL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos y el drenaje el municipio",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL LAS MORAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL LOS PINOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL PROVIDENCIA",
+        "categoria": "no entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "no entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN AGUSTIN",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN ANTONIO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN DIEGO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el municipio suminstra con pipas",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN JOSE",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN MIGUEL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el pozo lo administran los colonos, segun dgaps en agosto del 2024",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN NICOLAS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN PABLO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "solicitan cada colono el cambio a caracteristicas porque los medidores se descomponen rapido por la mala calidad del agua..",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL SAN SEBASTIAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RESIDENCIAL TACOMOLCA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL TULIPANES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RESIDENCIAL VILLALTA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "RINCONADA COFRADIA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador, a partir de febrero del 2024 se hace cargo el municipio del agua y del drenaje",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RINCONADA DE LA CRUZ",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RINCONADA DE LAS AURORAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DE LOS GAVILANES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por particular",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DE LOS NARANJOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DE LOS NOGALES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua era administrada por el desarrollador, a la fecha de agosto los abandono y la dgpas les manda pipas",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DE SAN ANDRES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por particular",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DE SAN SEBASTIAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RINCONADA DE SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DEL ROBLE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "en la ley de ingresos 2019, esta como fraccionamiento no exite en ecarto.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA DEL SOL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "RINCONADA DEL VALLE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA LA FLORESTA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por particular (org operador)",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA LAS VILLAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA SAN PATRICIO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA SANTA ISABEL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "RINCONADA SANTIAGO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SAN JOSE DEL TAJO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "SAN JUAN DEL RÍO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SAN MARTIN DE TAJO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "SAN MIGUEL SEGUNDO",
+        "categoria": "localidad",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "en la ley de ingresos 2019, esta como fraccionamiento",
+        "autosuficiente": false,
+        "entregado": "localidad"
+    },
+    {
+        "nombre": "SAN REMO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "No convenio o concesion existente. Se tiene que acercar la asociacion de coloons para hacer un convenio y poder dejar de cobrar.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "SANTA ANITA COUNTRY (CONDOMINIO)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos.. alcantarillado cada vivienda con biodigestores, las demadias sen ala red interna a una cisterna sanitaria general luego la limpian con vactor la asociacion de propietarios",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SANTA ANITA HILLS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SANTA FE (TLAJOMULCO)",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SANTA ISABEL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SECCION JARDINES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SENDERO DE MONTEVERDE",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2026-12-31",
+        "pdf_convenio_path": "documents/senderos-de-monteverde.pdf",
+        "observaciones": "operadora de agua potable de occidente sa de cv  vence el convenio  el 31 de diciembre del 2026.. en el contrato del folio ago233056 dice que se llama suministradora de agua potable de occidente sa de cv.",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "SENDERO REAL",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "SENDEROS DEL VALLE",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SENDEROS LAS MORAS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "fraccionamiento en proceso de rescate ( se interrumpio el proceso)  .  en 2012 se autorizo que se hiciera la entrega recpecion por que la empresa tenia concurso mercantil para conclurir el proceso de entrega-recepcion .  el municipio no otorga el servicio. no recibido pero se pudo iniciar . tienen ptar   y tienen pozo sin titulos.  acuerdo 074/2012 sesion del 30 de marzo 2012  se pide se hagan las gestiones para que escrituren las areas de sesion. luego en julio del 2023 el sindico gira oficios a ot, dgaps, patrimonio para que informen el seguimiento al punto de acuerdo 07/2012. agua potable reconoce que no hay hecho nada pra ejecutar el acuerdo con oficio dgaps/dgv/0880/2023 del 7 de julio del 2023.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SIBARIA RESIDENCIAL ( CUATRO CUARTOS)",
+        "categoria": "en proceso con licencia vencida",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "1 de marzo del 2022 esta en desarrollo pero ya esta vendiendo",
+        "autosuficiente": false,
+        "entregado": "en proceso con licencia vencida"
+    },
+    {
+        "nombre": "SILOS",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "SORRENTO RESIDENCIAL SORRENTO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "TIERRA Y ESPERANZA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "solo se cobra drenaje según oficio del 2016.  en 2016 se dieron de alta en forma masiva a nombre de tierra y esperanza ac. solo  las que tenian caracteristicas.   en el 2020 se solicitaron en alta de nuevas cuentas con los dos conceptos.. en 2021 solo se cobra el drenaje . segun dictamen de agua potable",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "TRES REYES DE CAJITITLAN",
+        "categoria": "vencido",
+        "fecha_fin_convenio": "2018-12-31",
+        "pdf_convenio_path": "",
+        "observaciones": "Convenio de colaboracion vencdio en 2018",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "TRIVENTI RESIDENCIAL",
+        "categoria": "en proceso de entrega recepcion con licencia vencida",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua  es administrada por desarrollador. en sept del 2023,, esta en proceso de entrega- recepción",
+        "autosuficiente": false,
+        "entregado": "en proceso de entrega recepcion con licencia vencida"
+    },
+    {
+        "nombre": "VALLE DE LAS FLORES",
+        "categoria": "convenio",
+        "fecha_fin_convenio": "2026-12-31",
+        "pdf_convenio_path": "documents/valle-de-las-flores.pdf",
+        "observaciones": "empresao peradora de agua potable de occidente sa de cv",
+        "autosuficiente": false,
+        "entregado": true
+    },
+    {
+        "nombre": "VALLE DE LOS EMPERADORES",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VALLE DE LOS ENCINOS",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua y drenaje por el municipio",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VALLE DE SAN SEBASTIAN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VALLE DE TEJEDA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": ". entregadas algunas etapas",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VALLE DE TLAJOMULCO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "ordenamiento territorial confirmo que esta recibido, accion urbanistica de 1991.",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VALLE DORADO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VALLE DORADO CUATRO ESTACIONES",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VALLES DEL AUTODROMO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLA ESMERALDA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VILLA FONTANA AQUA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VILLA GALICIA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLA QUINTANA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLA SAN JOSE",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "VILLA TURQUEZA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VILLANOVA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS CALIFORNIA",
+        "categoria": "nan",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "entregado, esta en el proceso de vicios ocultos por dos años.  fue en marzo del 2021 la entrega-recepcion . hay titulos de concesion aprocrifos",
+        "autosuficiente": false,
+        "entregado": "nan"
+    },
+    {
+        "nombre": "VILLAS DE LA ALAMEDA",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLAS DE LA HACIENDA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no ha concluido; entregado parcialmente, en inundaciones: av. de los altos, av. hacienda atemajac, av hacienda colimilla, esquina donde convergen",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VILLAS DE LA TIJERA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS DE SAN AGUSTIN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS DE SAN GILBERTO",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLAS DE SAN GILBERTO I",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "fraccionamiento completo",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLAS DE SAN GILBERTO II",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLAS  DE SAN GILBERTO III, IV",
+        "categoria": "?????",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "toda la etapa villas de san gilberto iv",
+        "autosuficiente": false,
+        "entregado": "?????"
+    },
+    {
+        "nombre": "VILLAS DE SAN MARTIN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por ellos con apoyo del municipio",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS DE SAN MIGUEL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS DE SAN SEBASTIAN G Y G (DOMUS)",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VILLAS DE ZAPOTEPEC",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLAS DEL EDEN",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS DEL NAYAR",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua administrada por desarrollador; desde el fraccionamiento real del valle",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VILLAS SAN AGUSTIN CONDOMINIO",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS SANTA ANITA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el agua es administrada por condominos",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS SANTA ISABEL",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS SANTA SOFIA",
+        "categoria": "irregular",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "el desarrollador no se hace cargo del agua.. es un condominio no habitado",
+        "autosuficiente": false,
+        "entregado": "irregular"
+    },
+    {
+        "nombre": "VILLAS TERRANOVA",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador no ha concluido; entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VILLAS TULIPANES",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "posible proceso con atraso",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VISTA SUR",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "desarrollador en proceso de const. entregado parcialmente",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "VISTAS DE SAN AGUSTIN",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VISTAS DEL VALLE (DOMUS)",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "VIVEROS DEL REAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "nan",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "ZOI SAN AGUSTIN",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "1 de marzo del 2022 esta en desarrollo pero ya esta vendiendo",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    },
+    {
+        "nombre": "ZOI SUR RESIDENCIAL",
+        "categoria": "entregado",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "entregado con la escritura 151.",
+        "autosuficiente": false,
+        "entregado": "entregado"
+    },
+    {
+        "nombre": "ZOI SANTA ANITA SUR. I, II, III ( SE AUTORIZO ASI EN LA LICENCIA DE URBANIZACION )",
+        "categoria": "en proceso",
+        "fecha_fin_convenio": "",
+        "pdf_convenio_path": "",
+        "observaciones": "ordenamiento territorial si otorgo licencia de urbanizacion el 12 de  septiembre del 2022  con el nombre de  zoi santa anita sur ii",
+        "autosuficiente": false,
+        "entregado": "en proceso"
+    }
+]

@@ -1,0 +1,7 @@
+#ignore support files for the project
+.env
+.vscode/
+script.py
+
+#ignore excel files
+*.xlsx
